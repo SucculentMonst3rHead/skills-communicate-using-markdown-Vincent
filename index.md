@@ -10,3 +10,10 @@ made 2 headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+
+
+- [x] Wake Up 
+- [x] Go To School 
+- [x] Do work 🤯
