@@ -17,3 +17,8 @@ var myVar = "Hello, world!";
 - [x] Wake Up 
 - [x] Go To School 
 - [x] Do work 🤯
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
